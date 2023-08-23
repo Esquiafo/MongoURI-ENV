@@ -6,6 +6,10 @@ const app = express();
 app.use(express.static('public'));
 
 app.get('/', (req, res) => {
+
+  //Corremos el script para que inicie la prueba de la DB
+  runDB()
+  
   res.send("");
 });
 
