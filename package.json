@@ -1,11 +1,25 @@
 {
+  "homepage": "https://github.com/Esquiafo/MongoURI-ENV#readme",
   "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Esquiafo/MongoURI-ENV"
+  },
+  
+  "author": { 
+  "name" : "Leonardo Capone", 
+  "email" : "leocapone@hotmail.com", 
+  "url" : "https://www.linkedin.com/in/capone-leonardo/"
+  },
   "dependencies": {
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "mongodb": "^5.8.1"
-  },
-  "scripts": {
-    "start": "node app.js"
   }
+
+
+
 }
