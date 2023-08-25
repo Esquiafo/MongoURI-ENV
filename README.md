@@ -32,5 +32,5 @@ To deploy this project run
 
 ## Authors
 
-- [@Leoanrdo Capone](https://www.linkedin.com/in/capone-leonardo/)
+- [@Leonardo Capone](https://www.linkedin.com/in/capone-leonardo/)
 
